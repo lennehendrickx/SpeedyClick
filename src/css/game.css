@@ -1,0 +1,19 @@
+.game {
+  background-color: aquamarine;
+  position:absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.target {
+  color: #fff;
+  position: absolute;
+}
+
+.dashboard {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
